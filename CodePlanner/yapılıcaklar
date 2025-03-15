@@ -1,0 +1,10 @@
+Editör Helper +
+Planner Opener İnterface +
+Delete Buttons +
+File management / Opening new clasors and files / First run class and its funciton +
+Tabs And Close Buttons -> Sadece sekme açıldığında arkaplanının otomatik olarak active purple yapılması kaldı yarın yap +
+                       -> Sekme kapatma sekmesinden tüm sekmeler kapatılırsa isMainActive i 0 yap +
+
+
+Planner Opener Syntax
+Main page -> Clock / Daily Tasks / To Do List / Meaningful Sentence / Task Log
